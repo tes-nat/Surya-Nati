@@ -12,3 +12,9 @@ img {
     height: auto;
     margin: 0 auto;
 }
+.titlediv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
